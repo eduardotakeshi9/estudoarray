@@ -1,0 +1,1 @@
+/* Array.reduceRight() - Funciona DO MESMO MODO E MÉTODO do array.reduce(), mas na direção oposta. O array.reduce() inicia no primeiro elemento e percorre para o último, enquanto o array.reduceRight() inicia no ultimo e percorre em direção ao primeiro. */
