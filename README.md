@@ -1,4 +1,4 @@
-# estudoarray
+#ArrayJavaScript
 
 Quando comecei meus estudos a JavaScript achava complicado os metodos arrays, além de ser bastante importante saber como manipular arrays, há vários metodos especificos com objetivos diferentes.
 
